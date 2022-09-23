@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  MyFavourite Food
-//
-//  Created by 醒着像睡着 on 9/23/22.
-//
+
 
 import UIKit
 
