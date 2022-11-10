@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F25E196291C899800484F90 /* ProtocolSendName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F25E195291C899800484F90 /* ProtocolSendName.swift */; };
 		5FA4F9E4291B78B7008D273B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA4F9E3291B78B7008D273B /* AppDelegate.swift */; };
 		5FA4F9E6291B78B7008D273B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA4F9E5291B78B7008D273B /* SceneDelegate.swift */; };
 		5FA4F9E8291B78B7008D273B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA4F9E7291B78B7008D273B /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F25E195291C899800484F90 /* ProtocolSendName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolSendName.swift; sourceTree = "<group>"; };
 		5FA4F9E0291B78B7008D273B /* ProtocolAndDelegates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProtocolAndDelegates.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FA4F9E3291B78B7008D273B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5FA4F9E5291B78B7008D273B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				5FA4F9EE291B78BA008D273B /* LaunchScreen.storyboard */,
 				5FA4F9F1291B78BA008D273B /* Info.plist */,
 				5FA4F9F7291B7C6D008D273B /* SecondViewController.swift */,
+				5F25E195291C899800484F90 /* ProtocolSendName.swift */,
 			);
 			path = ProtocolAndDelegates;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				5FA4F9F8291B7C6D008D273B /* SecondViewController.swift in Sources */,
 				5FA4F9E8291B78B7008D273B /* ViewController.swift in Sources */,
+				5F25E196291C899800484F90 /* ProtocolSendName.swift in Sources */,
 				5FA4F9E4291B78B7008D273B /* AppDelegate.swift in Sources */,
 				5FA4F9E6291B78B7008D273B /* SceneDelegate.swift in Sources */,
 			);
