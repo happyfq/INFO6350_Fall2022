@@ -40,7 +40,7 @@
                         </constraints>
                     </stackView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Caption" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="V79-5H-K9Z">
-                        <rect key="frame" x="25" y="306" width="331" height="30"/>
+                        <rect key="frame" x="21" y="306" width="339" height="30"/>
                         <constraints>
                             <constraint firstAttribute="height" constant="30" id="mMf-Og-CtU"/>
                         </constraints>
@@ -73,6 +73,6 @@
         </tableViewCell>
     </objects>
     <resources>
-        <image name="LA" width="3992" height="2242"/>
+        <image name="LA" width="1200" height="630"/>
     </resources>
 </document>
